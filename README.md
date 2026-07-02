@@ -22,7 +22,7 @@ Displays error messages for invalid or empty fields.
 - Alerts valid form submission
 
 
-## LINE BY LINE EXPLANATION 
+EXPLANATION 
 
 
 A)    const [name, setName] = useState('');   =
